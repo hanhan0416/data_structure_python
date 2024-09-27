@@ -51,6 +51,9 @@ class linkedList:
 
     def remove(self, item):
         pass
+        current = self.head
+        previous = None
+        found = False
             
     def search(self, item):
         current = self.head
