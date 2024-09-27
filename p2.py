@@ -50,7 +50,6 @@ class linkedList:
             temp.setNext(None)
 
     def remove(self, item):
-        pass
         current = self.head
         previous = None
         found = False
